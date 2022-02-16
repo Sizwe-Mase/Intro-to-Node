@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "16.14.0",
+  "description": "simple web app",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sizwe-Mase/Intro-to-Node.git"
+  },
+  "author": "Sizwe_Mase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sizwe-Mase/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/Sizwe-Mase/Intro-to-Node#readme"
+}
